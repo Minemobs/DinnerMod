@@ -1,4 +1,7 @@
 # DinnerMod
+
+## The fork has been moved to [fantomitechno/DinnerMod](https://github.com/fantomitechno/DinnerMod)
+
 Just a mod that make you as DinnerBone, upside down : 
 
 ![Image 1](https://i.imgur.com/Zsks0EF.png)
